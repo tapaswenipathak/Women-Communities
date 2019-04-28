@@ -3,5 +3,6 @@
 List of women communities in STEM.
 
 - [community.anitab.org](https://community.anitab.org/)
+- [African women in mathematics association](http://africanwomeninmath.org/)
 
 

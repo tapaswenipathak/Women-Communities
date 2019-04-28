@@ -6,3 +6,5 @@ List of women communities in STEM.
 - [African women in mathematics association](http://africanwomeninmath.org/)
 - [She codes for change](http://shecodesforchange.org/)
 - [She codes Africa](https://medium.com/shecodeafrica)
+- [Pehia Foundation](https://pehia.org/)
+

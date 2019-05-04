@@ -18,4 +18,5 @@ List of women communities in STEM.
 - [Women Who Code](https://www.womenwhocode.com/)
 - [Women Who Go](https://www.womenwhogo.org/)
 - [ProjectCSgirls](https://www.projectcsgirls.com/)
+- [SHEROES](https://sheroes.com/)
 - [The Girl Code](https://thegirlcode.co/index.html)

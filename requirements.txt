@@ -1,6 +1,5 @@
 absl-py==0.5.0
 alabaster==0.7.7
-apt-clone==0.2.1
 apt-xapian-index==0.47
 astor==0.7.1
 attrs==19.1.0

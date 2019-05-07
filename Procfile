@@ -1,1 +1,1 @@
-web: gunicorn communitylist.wsgi 
+web: gunicorn communitylist.wsgi --log-file -

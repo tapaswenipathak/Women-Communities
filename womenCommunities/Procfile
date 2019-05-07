@@ -1,0 +1,1 @@
+web: gunicorn womenCommunities.wsgi --log-file -

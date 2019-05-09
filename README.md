@@ -20,3 +20,4 @@ List of women communities in STEM.
 - [ProjectCSgirls](https://www.projectcsgirls.com/)
 - [SHEROES](https://sheroes.com/)
 - [The Girl Code](https://thegirlcode.co/index.html)
+- [Ladies Love STEM](https://ladieslovestem.com/)

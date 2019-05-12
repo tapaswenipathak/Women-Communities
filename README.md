@@ -18,4 +18,4 @@
 
 1. [1 Million Women To Tech](https://1millionwomentotech.com/)
 2. [Learn IT girl](https://www.learnitgirl.com/)
-3. Talentsprint WE(Women Engineers)(https://talentsprintwe.com/)
+3. [Talentsprint WE(Women Engineers)](https://talentsprintwe.com/)

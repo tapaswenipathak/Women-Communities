@@ -12,3 +12,4 @@
 | [Pakistani Women in Computing](https://pwic.org/) |  |  |  |  |   | [DjangoGirls](https://djangogirls.org/)|   |   |
 | [Women in Machine Learning and Data Sceince](http://wimlds.org/) |  |  |  |  |   |  |   |   |
 | [LinuxChix](https://www.linuxchix.org/) |  |  |  |  |   |  |   |   |
+| [Girls in Tech](https://girlsintech.org/)|  |  |  |  |   |  |   |   |

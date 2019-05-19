@@ -13,3 +13,4 @@
 | [Women in Machine Learning and Data Sceince](http://wimlds.org/) |  |  |  |  |   |  |   |   |
 | [LinuxChix](https://www.linuxchix.org/) |  |  |  |  |   |  |   |   |
 | [Girls in Tech](https://girlsintech.org/)|  |  |  |  |   |  |   |   |
+| [Girls Develop it](https://www.girldevelopit.com/)  |   |   |   |    |    |    |    |    |

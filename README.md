@@ -14,3 +14,4 @@
 | [LinuxChix](https://www.linuxchix.org/) |  |  |  |  |   |  |   |   |
 | [Girls in Tech](https://girlsintech.org/)|  |  |  |  |   |  |   |   |
 | [Girls Develop it](https://www.girldevelopit.com/)  |   |   |   |    |    |    |    |    |
+| [Tech Ladies](https://www.hiretechladies.com/) |   |    |    |   |    |    |    |     |

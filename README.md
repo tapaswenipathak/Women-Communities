@@ -10,7 +10,7 @@
 | [Infosec girls](https://www.infosecgirls.in/) |  |  |  |  |   |[She codes for change](http://shecodesforchange.org/) |   |   |
 | [Women in Web Dev](https://womeninwebdev.com/) |  |  |  |  |  | [She codes Africa](https://medium.com/shecodeafrica) |   |   |
 | [Pakistani Women in Computing](https://pwic.org/) |  |  |  |  |   | [DjangoGirls](https://djangogirls.org/)|   |   |
-| [Women in Machine Learning and Data Sceince](http://wimlds.org/) |  |  |  |  |   |  |   |   |
+| [Women in Machine Learning and Data Sceince](http://wimlds.org/) |  |  |  |  |   | [The Girl Lead Project](https://www.thegirlleadproject.org/) |   |   |
 | [LinuxChix](https://www.linuxchix.org/) |  |  |  |  |   |  |   |   |
 | [Girls in Tech](https://girlsintech.org/)|  |  |  |  |   |  |   |   |
 | [Girls Develop it](https://www.girldevelopit.com/)  |   |   |   |    |    |    |    |    |

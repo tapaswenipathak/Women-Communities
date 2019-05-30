@@ -22,3 +22,8 @@
 
 | [Women Do Math](https://www.womendomath.org/) | | 
 | [Nigerian Women Mathematical Society](http://www.nigerianwomeninmaths.org/) | |
+| [European Women in Mathematics](https://www.europeanwomeninmaths.org) | | 
+| [Association for Women in Mathematics](https://awm-math.org/) | |
+| [Celebrating Women in Mathematics](https://may12.womeninmaths.org/) | |
+| [Women in mathematics](http://womeninmath.net/) | |
+

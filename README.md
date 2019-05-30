@@ -17,3 +17,8 @@
 | [Girls in Tech](https://girlsintech.org/)|  |  |  |  |   |  |   |   |
 | [Girls Develop it](https://www.girldevelopit.com/)  |   |   |   |    |    |    |    |    |
 | [Tech Ladies](https://www.hiretechladies.com/) |   |    |    |   |    |    |    |     |
+
+## Communities on Women in Mathematics 
+
+| [Women Do Math](https://www.womendomath.org/) | | 
+| [Nigerian Women Mathematical Society](http://www.nigerianwomeninmaths.org/) | |

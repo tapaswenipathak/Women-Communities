@@ -27,3 +27,7 @@
 | [Celebrating Women in Mathematics](https://may12.womeninmaths.org/) | |
 | [Women in mathematics](http://womeninmath.net/) | |
 
+
+## Communities on Women in Engineering & Management
+| [Women's Engineering Society](https://www.wes.org.uk/) | |
+

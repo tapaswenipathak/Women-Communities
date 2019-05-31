@@ -31,3 +31,11 @@
 ## Communities on Women in Engineering & Management
 | [Women's Engineering Society](https://www.wes.org.uk/) | |
 
+| [Women in Engineering ](https://www.womeng.org/) | |
+
+
+## Communities on Women in Technology & Management
+| [SheLeadsTech India](https://sheleadstechin.splashthat.com/) | |
+
+
+

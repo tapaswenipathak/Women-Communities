@@ -36,6 +36,9 @@
 
 ## Communities on Women in Technology & Management
 | [SheLeadsTech India](https://sheleadstechin.splashthat.com/) | |
+| [Women who code](https://www.womenwhocode.com/) | |
+| [TechHer](https://techherng.com/) | |
+| [Women In Technology](https://www.womenintechnology.org/) | |
 
 
 

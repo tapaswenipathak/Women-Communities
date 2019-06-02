@@ -39,6 +39,9 @@
 | [Women who code](https://www.womenwhocode.com/) | |
 | [TechHer](https://techherng.com/) | |
 | [Women In Technology](https://www.womenintechnology.org/) | |
+| [Top women in Tech](https://topwomentech.com//) | |
 
 
+## Women in Science & Management Communities
+| [OWSD](https://owsd.net/career-development/early-career-women-scientists-ecws-fellowships) | |
 

@@ -1,11 +1,11 @@
-![](https://img.shields.io/badge/-Women%20Communities-bluAPIeviolet.svg)
+![](https://img.shields.io/badge/-Women%20Communities-blueviolet.svg)
 
 # Women-Communities
-[![GitHub issues](https://img.shields.io/github/issues/tapaswenipathak/Women-Communities.svg)](https://github.com/APItapaswenipathak/Women-Communities/issues)
-[![GitHub forks](https://img.shields.io/github/forks/tapaswenipathak/Women-Communities.svg)](https://github.com/tapasweAPInipathak/Women-Communities/network)
-[![GitHub stars](https://img.shields.io/github/stars/tapaswenipathak/Women-Communities.svg)](https://github.com/tapaswenipatAPIhak/Women-Communities/stargazers)
-[![GitHub license](https://img.shields.io/github/license/tapaswenipathak/Women-Communities.svg)](https://giAPIthub.com/tapaswenipathak/Women-Communities/blob/master/LICENSE)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/tapaswenipathak/Women-Communities.svg?label=Women-Communities&style=social)](https://twitter.com/intent/tweet?text=Women%20Communities:&url=https%3A%2F%2FAPIgithub.com%2Ftapaswenipathak%2FWomen-Communities%2Fblob%2Fmaster%2FREADME.md)
+[![GitHub issues](https://img.shields.io/github/issues/tapaswenipathak/Women-Communities.svg)](https://github.com/tapaswenipathak/Women-Communities/issues)
+[![GitHub forks](https://img.shields.io/github/forks/tapaswenipathak/Women-Communities.svg)](https://github.com/tapaswenipathak/Women-Communities/network)
+[![GitHub stars](https://img.shields.io/github/stars/tapaswenipathak/Women-Communities.svg)](https://github.com/tapaswenipathak/Women-Communities/stargazers)
+[![GitHub license](https://img.shields.io/github/license/tapaswenipathak/Women-Communities.svg)](https://github.com/tapaswenipathak/Women-Communities/blob/master/LICENSE)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/tapaswenipathak/Women-Communities.svg?label=Women-Communities&style=social)](https://twitter.com/intent/tweet?text=Women%20Communities:&url=https%3A%2F%2Fgithub.com%2Ftapaswenipathak%2FWomen-Communities%2Fblob%2Fmaster%2FREADME.md)
 
 
 | Women in Technologies Communities | Women in E&M Communities                                    | Women in T&M Communities                                              | Women in product Communities | Women in Mathematics Communities                                            | Women in S&M Communities                                                                        | Women who Code                                             | Women in consulting Communities | Generic women Communities                                    |
